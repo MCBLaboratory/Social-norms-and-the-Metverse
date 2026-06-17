@@ -80,6 +80,16 @@
   </tbody>
 </table>
 
+<h2>Scene</h2>
+
+<p>
+This scene simulates an interactive digital twin of a university canteen, developed to explore the hypothesised effects of the Metaverse-based social norms. The designed VR-study employed a 2x2 between-subjects experimental design, manipulating two independent variables: social norm type (descriptive norm (DN) vs. injunctive norm (IN)) and social norm format (immersive (EXP) vs. textual (TEXT)). This resulted in four experimental conditions to which participants were randomly assigned using a randomiser embedded in the Qualtrics survey flow. At the start of th experiment, participants can choose between four groups.
+</p>
+<p><b>>Group 1:</b Participants observed a queue of virtual avatars ahead of them, each elaborating on their decision to choose the sustainable meal.</p>
+<p><b>Group 2:</b> The norm message for the descriptive norm–textual condition (DN-TEXT) stated that most people choose the sustainable option.</p>
+<p><b>Group 3:</b> Participants are placed in a protest-like setting populated by virtual avatars advocating for more environmentally responsible food choices.</p>
+<p><b>Group 4:</b> The norm message for the descriptive norm–textual condition (DN-TEXT) indicated that choosing the sustainable option is the "right" thing to do.</p>
+
 <h2>Miscellaneous</h2>
 <ol>
   <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets), Windows PC's and Android or iOS smartphones.</li>
