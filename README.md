@@ -1,5 +1,5 @@
 <h1 align="center">
-  Can Avatars Shape Sustainable Consumer Food Choices? Exploring Social Norms in Virtual Worlds?
+  Can Avatars Shape Sustainable Consumer Food Choices? Exploring Social Norms in Virtual Worlds
 </h1>
 
 <div align="center">
@@ -43,10 +43,15 @@
   </li>
   <li><b>Required Unity Packages:</b>
     <ol>
+					    <li>
+    <b>OpenXR:</b>
+    <a href="https://github.com/needle-mirror/com.unity.xr.openxr" target="_blank">OpenXR</a>
+  </li>
 	    <li>
     <b>VarjoUnityXRPlugin:</b>
     <a href="https://github.com/varjocom/VarjoUnityXRPlugin" target="_blank">Varjo XR Unity Companion</a>
   </li>
+
       <li>Post Processing</li>
       <li>TextMeshPro</li>
 	  <li>AI Navigation (v1.1.7 or higher)</li>
@@ -79,6 +84,35 @@
 <ol>
   <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets), Windows PC's and Android or iOS smartphones.</li>
   <li>The game logic is written in C#.</li>
+	<li>
+    The project is configured for a <strong>Varjo</strong> headset and
+    <strong>Valve Index Controllers</strong>.
+  </li>
+  <li>
+    To change the VR headset settings (e.g., add Meta Quest 3), disable
+    <strong>Varjo</strong> and enable <strong>OpenXR</strong> in
+    <em>Project Settings → XR Plug-in Management</em>.
+  </li>
+  <li>
+    To update the controller configuration, navigate to
+    <em>Project Settings → XR Plug-in Management → OpenXR</em> and replace the
+    <strong>Valve Index Controller Profile</strong> with another (e.g., Meta Quest controllers)
+    using the <code>+</code> / <code>−</code> icons.
+  </li>
+  <li>
+    The <strong>OpenXR Simulator</strong> can be enabled to use keyboard and mouse controls:
+    <ul>
+      <li>In the Hierarchy, enable <em>Setup → XR Device Simulator</em>.</li>
+      <li>
+        In the Game view, press the <code>+</code> on the simulator’s control window to view
+        the input mappings.
+      </li>
+      <li>
+        Navigation may feel unintuitive at first, but the on-screen guide helps clarify the
+        control scheme.
+      </li>
+    </ul>
+  </li>
 </ol>
 
 <h2>Development Team</h2>
@@ -102,5 +136,5 @@
 <h2>Citation</h2>
 <p>
 If you use this code in your research, please cite:<br><br>
- Krampe, C., Mehlhose, C., Wolfers, J., Van Loo, E. J., Hurst, W. (2026). Can Avatars Shape Sustainable Consumer Food Choices? Exploring Social Norms in Virtual Worlds?. 
+ Krampe, C., Mehlhose, C., Wolfers, J., Van Loo, E. J., Hurst, W. (2026). Can Avatars Shape Sustainable Consumer Food Choices? Exploring Social Norms in Virtual Worlds?
 </p>
