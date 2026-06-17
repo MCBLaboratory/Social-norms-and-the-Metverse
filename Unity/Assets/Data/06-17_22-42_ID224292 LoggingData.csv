@@ -1,0 +1,3 @@
+date,participantID,groupNumber,eventType,eventNum,itemLeft,itemRight,itemChosen,leftOrRight,sideItemChosen1,sideItemChosen2,finalItemChosen,Timestamp(H:M:S:MS),randomSeed
+2026-06-17,224292,0,Start experiment,-1,,,,,None,None,None,22:42:16:473,277
+2026-06-17,224292,2,GroupSelect,0,,,,,None,None,None,22:42:19:060,277
