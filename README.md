@@ -51,7 +51,7 @@
     <b>VarjoUnityXRPlugin:</b>
     <a href="https://github.com/varjocom/VarjoUnityXRPlugin" target="_blank">Varjo XR Unity Companion</a>
   </li>
-
+<i></i>
       <li>Post Processing</li>
       <li>TextMeshPro</li>
 	  <li>AI Navigation (v1.1.7 or higher)</li>
