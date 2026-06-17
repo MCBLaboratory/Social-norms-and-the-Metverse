@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.youtube.com/vi/w-_Mpbzgaeo/maxresdefault.jpg" alt="VRADHD Video">
+    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/Picture1.jpg">
 </div>
 
 
