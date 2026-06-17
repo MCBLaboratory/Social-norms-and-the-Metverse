@@ -92,7 +92,7 @@ This scene simulates an interactive digital twin of a university canteen, develo
 
 <h2>Miscellaneous</h2>
 <ol>
-  <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets), Windows PC's and Android or iOS smartphones.</li>
+  <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets).</li>
   <li>The game logic is written in C#.</li>
 	<li>
     The project is configured for a <strong>Varjo</strong> headset and
