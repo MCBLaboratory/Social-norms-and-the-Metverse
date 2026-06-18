@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/blob/main/Pictures/Picture1.jpg">
+    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/blob/main/2.Pictures/Picture1.jpg">
 </div>
 
 
@@ -69,14 +69,26 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Scripts/TODO</b></td>
-      <td>TODO</td>
+      <td><b>MainFile.cs</b></td>
+      <td>Tracks the event data, including participant ID, group, chosen item and timestamps. 
+	  See <a href="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/tree/main/Unity/Assets/Data " target="_blank">Assets - Data</a> for an example </td>
     </tr>
     <tr>
-      <td><b>TODO</b></td>
-      <td>TODO</td>
+      <td><b>Eye-tracking.cs</b></td>
+      <td>Contains Varjo's eye tracking data alongside event data. Can be activated with <b>F1</b>. Data will be stored in Assets - EyeTracking.</td>
     </tr>
-    
+		 <tr>
+      <td><b>GroupSpecific/GroupX.cs</b></td>
+      <td>Controls the experiment layout and included choices, depending on the group selection.</td>
+    </tr> 
+	 <tr>
+      <td><b>Checkout.cs</b></td>
+      <td>Initialises the final choice of the participant during checkout (i.e., final event).</td>
+    </tr> 
+     <tr>
+      <td><b>NPCAudioTrigger/Movement/Orientation/Dialogue/CustomNavMeshAgent.cs</b></td>
+      <td>Controls the NPC logic, dialogue and movement.</td>
+    </tr> 
   </tbody>
 </table>
 
