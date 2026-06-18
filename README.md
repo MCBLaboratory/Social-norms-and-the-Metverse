@@ -31,7 +31,7 @@
   <li>Clone the repository or download the .zip from the green "Code" button:<br>
     <code>git clone https://github.com/MCBLaboratory/Social-norms-and-the-Metverse</code>
   </li>
-	<li>Open Unity Hub, click Create New Project → Add Existing Project, and select the cloned project folder. The first launch may take additional time due to rebuilding the asset database.</li>
+	<li>Open Unity Hub, click <em>Create New Project → Add Existing Project</em>, and select the cloned project folder. The first launch may take additional time due to rebuilding of the asset database.</li>
 	<li>During first launch, make sure the required packages are installed via <b>Window - Package Manager</b>.</li>
 	<li>The XR Device Simulator is enabled by default, which can be unselected via the <em>Scene Hierarchy - Setup - XR Device Simulator</em>.</li>
 </ol>
