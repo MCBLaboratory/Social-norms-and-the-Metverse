@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td><b>Eye-tracking.cs</b></td>
-      <td>Contains Varjo's eye tracking data alongside event data. Can be activated with <b>F1</b>. Data will be stored in Assets - EyeTracking.</td>
+      <td>Contains the ability to capture eye tracking and track event data with a Varjo XR3 headset. Can be activated with <b>F1</b>. Data will be stored in Assets - EyeTracking.</td>
     </tr>
 		 <tr>
       <td><b>GroupSpecific/GroupX.cs</b></td>
