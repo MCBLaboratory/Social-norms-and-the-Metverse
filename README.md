@@ -17,7 +17,7 @@
 <ul>
   <li><b>Windows PC:</b> Tested on Windows 11 25H2</li>
   <li><b>Virtual Reality:</b> Tested with a Varjo XR3 & Meta Quest 3 VR headset</li>
-  <li><b>Unity 2022.3.22f1 or higher </b></li>
+  <li><b>Unity 2022.3.23f1 or higher </b></li>
   <li><b>Unity Hub</b></li>
   <li><b>(Inside-out tracking) SteamVR & min. 2x HTC/Valve Base Stations V1.0 or V2.0</b></li>
   </li>
@@ -31,6 +31,9 @@
   <li>Clone the repository or download the .zip from the green "Code" button:<br>
     <code>git clone https://github.com/MCBLaboratory/Social-norms-and-the-Metverse</code>
   </li>
+	<li>Open Unity Hub, click Create New Project → Add Existing Project, and select the cloned project folder. The first launch may take additional time due to rebuilding the asset database.</li>
+	<li>During first launch, make sure the required packages are installed via <b>Window - Package Manager</b>.</li>
+	<li>The XR Device Simulator is enabled by default, which can be unselected via the <em>Scene Hierarchy - Setup - XR Device Simulator</em>.</li>
 </ol>
 
 <h2>Unity Versions & Dependencies</h2>
@@ -38,7 +41,7 @@
   <li><b>Operating System:</b> Windows 10 or 11</li>
   <li><b>Unity Versions:</b>
     <ul>
-      <li><b>Windows PC:</b> Tested with Unity <code>2022.3.22f1</code></li>
+      <li><b>Windows PC:</b> Tested with Unity <code>2022.3.23f1</code></li>
     </ul>
   </li>
   <li><b>Required Unity Packages:</b>
@@ -54,7 +57,7 @@
 <i></i>
       <li>Post Processing</li>
       <li>TextMeshPro</li>
-	  <li>AI Navigation (v1.1.7 or higher)</li>
+	  <li>AI Navigation (v1.1.6 or higher)</li>
     </ol>
   </li>
 </ul>
@@ -120,6 +123,9 @@ This scene simulates an interactive digital twin of a university canteen, develo
     <em>Project Settings → XR Plug-in Management → OpenXR</em> and replace the
     <strong>Valve Index Controller Profile</strong> with another (e.g., Meta Quest controllers)
     using the <code>+</code> / <code>−</code> icons.
+  </li>
+	  <li>
+    The Tracking Origin Mode is set to Floor by default (assuming Base Stations). Inside-out tracking (i.e., Device) can be selected via the <em>Scene Hierarchy - Setup - XR Origin (XR Rig) Inspector</em>.
   </li>
   <li>
     The <strong>OpenXR Simulator</strong> can be enabled to use keyboard and mouse controls:
