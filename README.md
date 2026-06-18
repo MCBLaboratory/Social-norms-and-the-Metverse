@@ -71,7 +71,7 @@
     <tr>
       <td><b>MainFile.cs</b></td>
       <td>Tracks the event data, including participant ID, group, chosen item and timestamps. 
-	  See <a href="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/tree/main/Unity/Assets/Data " target="_blank">Assets - Data</a> for an example </td>
+	  See <a href="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/tree/main/1.Unity/Assets/Data " target="_blank">Assets - Data</a> for an example.</td>
     </tr>
     <tr>
       <td><b>Eye-tracking.cs</b></td>
@@ -107,7 +107,7 @@ This scene simulates an interactive digital twin of a university canteen, develo
   <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets).</li>
   <li>The game logic is written in C#.</li>
 	<li>
-    The project is configured for a <strong>Varjo</strong> headset and
+    The project is configured for an <strong>OpenXR-compatible</strong> headset such as the Meta Quest line-up. The controller scheme is mapped for the
     <strong>Valve Index Controllers</strong>.
   </li>
   <li>
