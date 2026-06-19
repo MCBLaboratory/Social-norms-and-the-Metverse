@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/blob/main/2.Pictures/Picture1.jpg">
+    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metaverse/blob/main/2.Pictures/Picture1.jpg">
 </div>
 
 
@@ -29,7 +29,7 @@
 
 <ol>
   <li>Clone the repository or download the .zip from the green "Code" button:<br>
-    <code>git clone https://github.com/MCBLaboratory/Social-norms-and-the-Metverse</code>
+    <code>git clone https://github.com/MCBLaboratory/Social-norms-and-the-Metaverse</code>
   </li>
 	<li>Open Unity Hub, click <em>Create New Project → Add Existing Project</em>, and select the cloned project folder. The first launch may take additional time due to rebuilding of the asset database.</li>
 	<li>During first launch, make sure the required packages are installed via <b>Window - Package Manager</b>.</li>
@@ -74,7 +74,7 @@
     <tr>
       <td><b>MainFile.cs</b></td>
       <td>Tracks the event data, including participant ID, group, chosen item and timestamps. 
-	  See <a href="https://github.com/MCBLaboratory/Social-norms-and-the-Metverse/tree/main/1.Unity/Assets/Data " target="_blank">Assets - Data</a> for an example.</td>
+	  See <a href="https://github.com/MCBLaboratory/Social-norms-and-the-Metaverse/tree/main/1.Unity/Assets/Data " target="_blank">Assets - Data</a> for an example.</td>
     </tr>
     <tr>
       <td><b>Eye-tracking.cs</b></td>
