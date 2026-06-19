@@ -100,10 +100,10 @@
 <p>
 This scene simulates an interactive digital twin of a university canteen, developed to explore the hypothesised effects of the Metaverse-based social norms. Following a 2X2 design, each particpant has the option to choose either between a meatbased burger or a bean-based (vegetarian) burger while bieng exposed to a social norm. At the start of the experiment, participants can choose between four groups that influences their observed social norm type (descriptive norm (DN) vs. injunctive norm (IN)) and social norm format (immersive (EXP) vs. textual (TEXT)).
 </p>
-<p><b>Group 1:</b> Participants observe a queue of virtual avatars ahead of them, each elaborating on their decision to choose the sustainable meal.</p>
-<p><b>Group 2:</b> The norm message for the descriptive norm–textual condition states that most people choose the sustainable option.</p>
-<p><b>Group 3:</b> Participants are placed in a protest-like setting populated by virtual avatars advocating for more environmentally responsible food choices.</p>
-<p><b>Group 4:</b> The norm message for the descriptive norm–textual condition indicates that choosing the sustainable option is the "right" thing to do.</p>
+<p><b>Group 1 (DN-EXP):</b> Participants observe a queue of virtual avatars ahead of them, each elaborating on their decision to choose the sustainable meal.</p>
+<p><b>Group 2 (DN-TEXT):</b> The norm message for the descriptive norm–textual condition states that most people choose the sustainable option.</p>
+<p><b>Group 3 (IN-EXP):</b> Participants are placed in a protest-like setting populated by virtual avatars advocating for more environmentally responsible food choices.</p>
+<p><b>Group 4 (IN-TEXT):</b> The norm message for the descriptive norm–textual condition indicates that choosing the sustainable option is the "right" thing to do.</p>
 
 <h2>Miscellaneous</h2>
 <ol>
