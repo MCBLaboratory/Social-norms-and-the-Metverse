@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metaverse/blob/main/2.Pictures/Picture1.jpg">
+    <img src="https://github.com/MCBLaboratory/Social-norms-and-the-Metaverse/blob/main/2.Pictures/Picture1.png">
 </div>
 
 
